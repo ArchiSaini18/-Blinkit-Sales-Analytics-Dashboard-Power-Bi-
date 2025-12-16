@@ -117,3 +117,5 @@ Includes:
 • Customer ratings
 
 • Item count metrics
+
+**Screenshot**:link->https://github.com/ArchiSaini18/-Blinkit-Sales-Analytics-Dashboard-Power-Bi-/blob/main/Blinkit%20Dashboard%20image.png
