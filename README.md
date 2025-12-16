@@ -70,9 +70,7 @@ Analyzes customer preference between Low Fat and Regular items.
 • 📊 Clustered Bar Chart – Item Fat Content vs Outlet Location
 Compares fat-content-based sales performance across outlet locations.
 
-.
-
-🎛️ **Interactive Filters (Slicers)**
+.🎛️ **Interactive Filters (Slicers)**
 
 • 📍 Outlet Location
 
