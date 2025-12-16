@@ -11,13 +11,23 @@ The dashboard is fully interactive with slicers for Outlet Location, Outlet Type
 
 📊 **Key KPIs**
 
-• 💰 Total Sales – Overall revenue generated • 📦 Number of Items Sold – Total item quantity sold • 📊 Average Sales – Mean sales per item • ⭐ Average Rating – Average customer rating
+• 💰 Total Sales – Overall revenue generated 
+
+• 📦 Number of Items Sold – Total item quantity sold 
+
+• 📊 Average Sales – Mean sales per item 
+
+• ⭐ Average Rating – Average customer rating
 
 🧮 **Seller / Outlet-Level Metrics**
 
-Each outlet is evaluated on: • 💰 Total Sales
+Each outlet is evaluated on:
+• 💰 Total Sales
+
 • 📦 Number of Items Sold
+
 • 📊 Average Sales
+
 • ⭐ Average Rating
 
 These metrics help identify top-performing and underperforming outlets.
@@ -25,12 +35,15 @@ These metrics help identify top-performing and underperforming outlets.
 📈 **Key Visuals & Charts**
 
 • 📊 Stacked Bar Chart – Item vs Metrics
+
 Displays item-wise comparison of Total Sales, Number of Items, Average Sales, and Ratings.
 
 • 🍩 Donut Chart – Outlet Size vs Total Sales
+
 Visualizes contribution of Small, Medium, and Large outlets to total sales.
 
 • 🔻 Funnel Chart – Outlet Size vs Sales
+
 Shows sales drop-off or concentration across outlet sizes.
 
 • 🧾 Matrix Table – Detailed Performance View
@@ -62,7 +75,9 @@ Compares fat-content-based sales performance across outlet locations.
 🎛️ **Interactive Filters (Slicers)**
 
 • 📍 Outlet Location
+
 • 🏪 Outlet Type
+
 • 📐 Outlet Size
 
 🌟 **Business Impact & Insights**
@@ -80,6 +95,7 @@ Compares fat-content-based sales performance across outlet locations.
 🎯 **Goal of the Dashboard**
 
 To build a strategic, insight-rich Blinkit Sales Dashboard that: 
+
 • Tracks core sales and performance KPIs
 
 • Identifies top and low-performing outlets and items
@@ -92,7 +108,9 @@ To build a strategic, insight-rich Blinkit Sales Dashboard that:
 
 Internal Blinkit Sales Dataset (CSV / Excel)
 
-Includes: • Item details (type, fat content, visibility) 
+Includes: 
+
+• Item details (type, fat content, visibility) 
 
 • Outlet details (location, type, size, establishment year) 
 
